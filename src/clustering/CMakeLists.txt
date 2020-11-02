@@ -1,0 +1,2 @@
+add_subdirectory(kmeans_vers_2)
+add_subdirectory(kmeans_with_index)

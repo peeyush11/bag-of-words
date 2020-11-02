@@ -1,6 +1,6 @@
 ### Introduction
 
-This repository contains the final project for the course 'Modern C++ for Computer Vision and Image Processing' by Peeyush Kumar and Jan Quakernack (summer term 2019). It is an implementation of a bag of visual words approach for finding similar images in an image dataset. The code is based on an inital setup by Ignacio Vizzo.
+This repository contains the final project for the course 'Modern C++ for Computer Vision and Image Processing' by Peeyush Kumar and Jan Quakernack (summer term 2019). It is an implementation of a bag of visual words approach for finding similar images in an image dataset.
 
 The code was tested on Ubuntu 18.04.3 using the GCC compiler version 7.4.0 and CMake version 3.10.2. It conforms the C++14 standard.
 

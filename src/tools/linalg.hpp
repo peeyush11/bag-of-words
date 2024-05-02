@@ -8,9 +8,6 @@
  * used at different places in the project.
  *
  * The usual choice for VectorType would be std::vector<float> or std::vector<double>.
- *
- * @author Jan Quakernack
- * @version 1.0
  */
 
 #include <vector>

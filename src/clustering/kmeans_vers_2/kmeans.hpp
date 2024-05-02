@@ -1,12 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_CLUSTERING_KMEANS_VERS_2_KMEANS_HPP_
 #define CPP_FINAL_PROJECT_CLUSTERING_KMEANS_VERS_2_KMEANS_HPP_
 
-/**
- * @file kmeans.hpp
- *
- * @author Peeyush Kumar
- * @version 1.0
- */
 
 #include "cluster.hpp"
 #include <eigen3/Eigen/Dense>

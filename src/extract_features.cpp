@@ -1,11 +1,3 @@
-/**
- * @file extract_features.cpp
- *
- * Provides a command line interface for the feature extraction step.
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include <boost/program_options.hpp>
 

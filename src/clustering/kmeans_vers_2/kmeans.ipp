@@ -1,9 +1,4 @@
-/**
- * @file kmeans.ipp
- *
- * @author Peeyush Kumar
- * @version 1.0
- */
+
 
 #include <cmath>
 #include <algorithm>

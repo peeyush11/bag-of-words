@@ -1,16 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_WEB_WEB_HPP_
 #define CPP_FINAL_PROJECT_WEB_WEB_HPP_
 
-/**
- * @file web.hpp
- *
- * The purpose of this file is to provide some helper functions
- * to generate the final web output.
- *
- * @author Jan Quakernack
- * @version 1.0
- */
-
 #include <iostream>
 #include <boost/filesystem.hpp>
 

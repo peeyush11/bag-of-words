@@ -1,10 +1,4 @@
-/**
- * @file search_image_vers_2.cpp
- *
- * @author Peeyush Kumar
- * @author Jan Quakernack
- * @version 1.0
- */
+
 
 #include <iostream>
 #include <string>

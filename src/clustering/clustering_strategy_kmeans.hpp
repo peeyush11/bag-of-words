@@ -1,12 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_CLUSTERING_CLUSTERING_STRATEGY_KMEANS_HPP_
 #define CPP_FINAL_PROJECT_CLUSTERING_CLUSTERING_STRATEGY_KMEANS_HPP_
 
-/**
- * @file clustering_strategy_kmeans.hpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include <random>
 

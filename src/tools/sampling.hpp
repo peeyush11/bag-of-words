@@ -9,9 +9,6 @@
  * random vectors.
  *
  * Mainly used for generation of test data.
- *
- * @author Jan Quakernack
- * @version 1.0
  */
 
 #include <random>

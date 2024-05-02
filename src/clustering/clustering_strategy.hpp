@@ -1,12 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_CLUSTERING_CLUSTERING_STRATEGY_HPP_
 #define CPP_FINAL_PROJECT_CLUSTERING_CLUSTERING_STRATEGY_HPP_
 
-/**
- * @file clustering_strategy.hpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include "feature_point.hpp"
 

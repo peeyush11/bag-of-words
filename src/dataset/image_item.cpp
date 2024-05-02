@@ -1,9 +1,4 @@
-/**
- * @file image_item.cpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
+
 
 #include "image_item.hpp"
 #include <boost/filesystem.hpp>

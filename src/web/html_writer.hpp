@@ -1,13 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_HTML_WRITER_HPP_
 #define CPP_FINAL_PROJECT_HTML_WRITER_HPP_
 
-/**
- * @file html_writer.hpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
-
 #include <string>
 #include <fstream>
 

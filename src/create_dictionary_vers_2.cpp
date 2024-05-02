@@ -1,9 +1,3 @@
-/**
- * @file create_dictionary_vers_2.cpp
- *
- * @author Peeyush Kumar
- * @version 1.0
- */
 
 #include "iostream"
 #include <boost/program_options.hpp>

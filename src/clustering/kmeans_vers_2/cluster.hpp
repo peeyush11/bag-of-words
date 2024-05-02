@@ -1,13 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_CLUSTERING_KMEANS_VERS_2_CLUSTER_HPP_
 #define CPP_FINAL_PROJECT_CLUSTERING_KMEANS_VERS_2_CLUSTER_HPP_
 
-/**
- * @file cluster.hpp
- *
- * @author Peeyush Kumar
- * @version 1.0
- */
-
 #include <vector>
 
 #include "feature_point.hpp"

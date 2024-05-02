@@ -1,9 +1,3 @@
-/**
- * @file linalg.ipp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include <cmath>
 #include <numeric>

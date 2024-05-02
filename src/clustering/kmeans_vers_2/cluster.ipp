@@ -1,9 +1,4 @@
-/**
- * @file cluster.ipp
- *
- * @author Peeyush Kumar
- * @version 1.0
- */
+
 
 namespace igg
 {

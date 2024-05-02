@@ -1,9 +1,4 @@
-/**
- * @file index.ipp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
+
 
 namespace igg {
 

@@ -1,9 +1,4 @@
-/**
- * @file feature_point.ipp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
+
 
 #include <numeric>
 

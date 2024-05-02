@@ -1,12 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_CLUSTERING_KMEANS_WITH_INDEX_RANDOM_TREE_HPP_
 #define CPP_FINAL_PROJECT_CLUSTERING_KMEANS_WITH_INDEX_RANDOM_TREE_HPP_
 
-/**
- * @file random_tree.hpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include <vector>
 #include <memory>

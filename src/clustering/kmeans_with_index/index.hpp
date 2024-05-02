@@ -1,12 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_CLUSTERING_KMEANS_WITH_INDEX_INDEX_HPP_
 #define CPP_FINAL_PROJECT_CLUSTERING_KMEANS_WITH_INDEX_INDEX_HPP_
 
-/**
- * @file index.hpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include <queue>
 

@@ -1,13 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_CLUSTERING_KMEANS_WITH_INDEX_NODE_HPP_
 #define CPP_FINAL_PROJECT_CLUSTERING_KMEANS_WITH_INDEX_NODE_HPP_
 
-/**
- * @file node.hpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
-
 #include <vector>
 #include <memory>
 

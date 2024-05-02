@@ -1,9 +1,3 @@
-/**
- * @file html_writer.cpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include "html_writer.hpp"
 

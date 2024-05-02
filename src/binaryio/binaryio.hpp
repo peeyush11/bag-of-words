@@ -1,15 +1,7 @@
 #ifndef CPP_FINAL_PROJECT_BINARYIO_BINARYIO_HPP_
 #define CPP_FINAL_PROJECT_BINARYIO_BINARYIO_HPP_
 
-/**
- * @file binaryio.hpp
- *
- * The purpose of this file is to provide reading and writing functionality
- * for various intermediate results related to the project.
- *
- * @author Jan Quakernack
- * @version 1.0
- */
+
 
 #include <fstream>
 #include <iostream>

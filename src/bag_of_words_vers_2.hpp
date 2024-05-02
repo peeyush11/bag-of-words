@@ -1,15 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_BAG_OF_WORDS_VERS_2_HPP_
 #define CPP_FINAL_PROJECT_BAG_OF_WORDS_VERS_2_HPP_
 
-/**
- * @file bag_of_words_vers_2.hpp
- *
- * Note this is one of two alternative implementations.
- *
- * @author Peeyush Kumar
- * @version 1.0
- */
-
 #include <iostream>
 #include <string>
 #include <vector>

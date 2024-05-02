@@ -1,13 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_DATASET_DATASET_HPP_
 #define CPP_FINAL_PROJECT_DATASET_DATASET_HPP_
 
-/**
- * @file dataset.hpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
-
 #include <vector>
 #include <string>
 #include <memory>

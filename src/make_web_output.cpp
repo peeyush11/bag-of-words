@@ -1,11 +1,3 @@
-/**
- * @file make_histograms.cpp
- *
- * Provides a command line interface for the final visualization of the results.
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include <boost/program_options.hpp>
 

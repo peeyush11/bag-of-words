@@ -14,9 +14,6 @@
  * To make use os this option include this file via:
  *
  * #include "tools/terminalout.hpp"
- *
- * @author Jan Quakernack
- * @version 1.0
  */
 
 #include <iostream>

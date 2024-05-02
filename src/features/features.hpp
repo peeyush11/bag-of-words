@@ -10,9 +10,6 @@
  * We use SIFT features.
  *
  * Reference: https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf
- *
- * @author Jan Quakernack
- * @version 1.0
  */
 
 #include <opencv2/opencv.hpp>

@@ -1,9 +1,3 @@
-/**
- * @file bag_of_words.cpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include "bag_of_words.hpp"
 

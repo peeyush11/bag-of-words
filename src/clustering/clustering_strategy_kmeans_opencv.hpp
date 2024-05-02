@@ -1,12 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_CLUSTERING_CLUSTERING_STRATEGY_KMEANS_OPENCV_HPP_
 #define CPP_FINAL_PROJECT_CLUSTERING_CLUSTERING_STRATEGY_KMEANS_OPENCV_HPP_
 
-/**
- * @file clustering_strategy_kmeans_opencv.hpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include "clustering_strategy.hpp"
 

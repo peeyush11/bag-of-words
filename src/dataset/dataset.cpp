@@ -1,9 +1,3 @@
-/**
- * @file dataset.cpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include "dataset.hpp"
 

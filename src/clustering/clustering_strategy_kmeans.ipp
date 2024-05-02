@@ -1,9 +1,4 @@
-/**
- * @file clustering_strategy_kmeans.ipp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
+
 
 #include <cmath>
 #include <algorithm>

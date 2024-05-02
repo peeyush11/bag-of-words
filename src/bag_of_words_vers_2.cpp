@@ -1,10 +1,3 @@
-/**
- * @file bag_of_words_vers_2.cpp
- *
- * @author Peeyush Kumar
- * @version 1.0
- *
- */
 
 #include "bag_of_words_vers_2.hpp"
 

@@ -1,11 +1,3 @@
-/**
- * @file make_histograms.cpp
- *
- * Provides a command line interface for the histogram generation and re-weighting step.
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include <boost/program_options.hpp>
 

@@ -9,9 +9,6 @@
  *
  * We introduce Histogram<T> as an alias for an std::vector<T>, where T
  * is usually a floating point type. See feature_point.hpp.
- *
- * @author Jan Quakernack
- * @version 1.0
  */
 
 #include <vector>

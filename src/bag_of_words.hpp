@@ -1,15 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_BAG_OF_WORDS_HPP_
 #define CPP_FINAL_PROJECT_BAG_OF_WORDS_HPP_
 
-/**
- * @file bag_of_words.hpp
- *
- * Note this is one of two alternative implementations.
- *
- * @author Jan Quakernack
- * @version 1.0
- */
-
 #include "dataset/dataset.hpp"
 #include "clustering/clustering_strategy.hpp"
 

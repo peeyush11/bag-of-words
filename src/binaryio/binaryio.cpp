@@ -1,9 +1,3 @@
-/**
- * @file binaryio.cpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include "binaryio.hpp"
 

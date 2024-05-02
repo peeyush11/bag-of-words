@@ -1,11 +1,3 @@
-/**
- * @file compute_cluster_centroids.cpp
- *
- * Provides a command line interface for the clustering step.
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include <boost/program_options.hpp>
 

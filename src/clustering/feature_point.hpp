@@ -14,9 +14,6 @@
  * is usually a floating point type. This way expressions like
  * std::vector<std::vector<float>> turn into std::vector<FeaturePoint<float>>,
  * which we regard as more self-explaining.
- *
- * @author Jan Quakernack
- * @version 1.0
  */
 
 #include <vector>

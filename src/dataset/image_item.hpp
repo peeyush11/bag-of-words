@@ -1,14 +1,6 @@
 #ifndef CPP_FINAL_PROJECT_DATASET_IMAGE_ITEM_HPP_
 #define CPP_FINAL_PROJECT_DATASET_IMAGE_ITEM_HPP_
 
-/**
- * @file image_item.hpp
- *
- * @author Jan Quakernack
- *
- * @version 1.0
- */
-
 #include <string>
 #include <memory>
 #include <opencv2/opencv.hpp>

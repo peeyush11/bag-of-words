@@ -1,9 +1,3 @@
-/**
- * @file web.cpp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
 
 #include "web.hpp"
 

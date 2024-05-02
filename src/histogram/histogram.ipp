@@ -1,9 +1,4 @@
-/**
- * @file histogram.ipp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
+
 
 #include "tools/linalg.hpp"
 

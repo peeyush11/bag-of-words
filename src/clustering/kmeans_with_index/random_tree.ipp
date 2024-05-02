@@ -1,9 +1,4 @@
-/**
- * @file random_tree.ipp
- *
- * @author Jan Quakernack
- * @version 1.0
- */
+
 
 #include "tools/linalg.hpp"
 
